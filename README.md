@@ -27,5 +27,4 @@ https://github.com/zhiwehu/Python-programming-exercises
 7.Learn python：
 https://github.com/trekhleb/learn-python/
 
-8.Python：
-https://github.com/TheAlgorithms/Python/​
+
