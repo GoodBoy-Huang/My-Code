@@ -3,11 +3,11 @@
     第一版的中文PDF、Python3.7的中文手册和语言参考。
 
     
-**Python学习网站**
+**网上收藏的Python学习网站**
 
 
 1.python100天： 
-https://github.com/jackfrued/Python-100-Days
+ https://github.com/jackfrued/Python-100-Days
 
 2.草根学python：
 https://www.readwithu.com/
