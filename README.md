@@ -10,5 +10,5 @@ https://www.runoob.com/python/python-tutorial.html
 2.中国大学MOOC：
 https://www.icourse163.org/
 
-3.廖雪峰教程官网:
+3.廖雪峰教程官网：
 https://www.liaoxuefeng.com/wiki/1016959663602400
