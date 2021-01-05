@@ -4,8 +4,8 @@
 
 **Python学习网站推荐**
 
-1.python菜鸟教程
+1.Python菜鸟教程：
 https://www.runoob.com/python/python-tutorial.html
 
-2.中国大学MOOC
+2.中国大学MOOC：
 https://www.icourse163.org/
