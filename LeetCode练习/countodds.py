@@ -1,4 +1,4 @@
-#在区间范围内统计奇数数目
+#在闭区间范围内统计奇数数目
 class Solution:
     def countOdds(self, low: int, high: int) -> int:
         result = []
